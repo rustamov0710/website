@@ -1,6 +1,5 @@
 import React from "react";
 import { ProductType } from "../../interfaces";
-import Image from "next/image";
 import CustomImage from "../CustomImage/CustomImage";
 const Card = ({ product }: { product: ProductType }) => {
   return (
